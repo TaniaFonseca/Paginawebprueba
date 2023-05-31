@@ -1,0 +1,41 @@
+/* Estilos de letra */
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  font-size: 32px;
+  color: #ae39d8;
+}
+
+h2 {
+  font-size: 24px;
+  color: #ae39d8;
+}
+
+p, li {
+  font-size: 16px;
+  color: #ffffff;
+}
+
+/* Colores de fondo */
+body {
+  background-color: #111111;
+}
+
+header {
+  background-color: #1f1e1e;
+  padding: 20px;
+}
+
+main {
+  background-color: #222121;
+  padding: 20px;
+}
+
+footer {
+  background-color: #d1cfcf;
+  color: #0d0d0d;
+  padding: 10px;
+  text-align: center;
+}
